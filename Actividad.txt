@@ -1,0 +1,13 @@
+Se deben desarrollar cinco (05) endpoints variados entre GET y POST sobre un tema a discrecion de ustedes.
+
+ 
+
+Consideraciones:
+
+    Se debe crear la base de datos por medio de migraciones CHECK
+    Se debe poblar las tablas de referencias o normalizadas utilizando los Seeders. CHECK
+    Se recomienda personalizar su Response y de ser posible su Request. PENDIENTE
+    Realizar validaciones con sus distintos mensajes de errores.CHECK
+    Una base de datos de minimo 5 tablas. SEMI-CHECK
+    Elijan un tema no muy comun, para evitar duplicidad de tareas: The binding of isaac Objetos, trinkets, personajes, Jefes, pisos CHECK
+    Entregar un Postman Collection y la aplicacion para levantar en local.
